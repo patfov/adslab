@@ -24,7 +24,14 @@ Some of the skills I've learned in this project are:
 
 Concepts learned in this project are helpful in Natural Language Processing.
 
-## 4.
+## 4. Earthquake damage in Nepal
+
+Skills learned in this project:
+
+- How to get data by querying a SQL database.
+- How to build a logistic regression model for classification.
+- How to build a decision tree model for classification.
+- How to incorporate ethical considerations into your model building.
 
 ## 5.
 
