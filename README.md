@@ -1,5 +1,4 @@
-# applied_dslab
-
+# Applied Data Science Lab
 In this repository, you will find notebooks related to the WQU Applied Data Science Lab lessons. As requested in the institution's code of conduct, these notebooks only show parts of each lab.
 
 ## 1.
